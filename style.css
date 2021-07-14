@@ -228,4 +228,9 @@ footer p{
     .player1 img{
         width: 100%;
     }
+
+    .copa-video iframe{
+        width:260px;
+        height:215px;
+    }
 }
