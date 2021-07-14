@@ -132,7 +132,7 @@ body{
 }
 
 .player1{
-    padding-bottom: 30%;
+    padding-bottom: 7%;
 }
 /* footer section */
 
@@ -190,7 +190,7 @@ footer p{
         width: 80%;
         margin-top: 94px;
     }
-    .player{
+    .players{
         grid-template-columns: repeat(1,1fr);
     }
 
@@ -209,6 +209,7 @@ footer p{
 
     .famous-player{
         grid-template-columns: repeat(1, 1fr);
+        padding-top: 4%;
     }
 
     .logo img{
@@ -228,7 +229,10 @@ footer p{
     .player1 img{
         width: 100%;
     }
-
+    .copa-video{
+        margin-top: 1450%;
+        padding-top: 10%;
+    }
     .copa-video iframe{
         width:260px;
         height:215px;
